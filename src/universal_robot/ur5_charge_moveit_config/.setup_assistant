@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /root/charge/huawei_charge/charge_world/charge_world.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/charge_world.srdf
+  CONFIG:
+    author_name: luckky
+    author_email: luckkywz@gmail.com
+    generated_timestamp: 1618848891
